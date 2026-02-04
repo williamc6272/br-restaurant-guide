@@ -2,7 +2,7 @@
 ## Asian --> Chinese
 ---
 Select a restaurant:
-## Panda https://www.pandabrooklyn.com/
+## [Panda] (https://www.pandabrooklyn.com/)
 ---
 <<<<<<< HEAD
 [Back to Asian ] (asian.md)
