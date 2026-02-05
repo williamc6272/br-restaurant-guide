@@ -5,5 +5,5 @@ Select a restaurant:
 ## [Panda](https://www.pandabrooklyn.com/)
 ---
 
-[Start Over] (../home.md)
+[Start Over](../home.md)
 
